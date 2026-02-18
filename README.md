@@ -32,7 +32,6 @@ A production-style Kubernetes deployment of EasyShop application with MongoDB, R
 - ArgoCD Application
 
 ---
-
 ## 🚀 Deployment
 
 ```bash
