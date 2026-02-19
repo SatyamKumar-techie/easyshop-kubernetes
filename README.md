@@ -12,7 +12,6 @@ The infrastructure is designed using Kubernetes best practices including:
 - ✅ Services (ClusterIP)
 - ✅ Ingress Configuration
 - ✅ ConfigMaps & Secrets Management
-- ✅ GitOps Deployment using ArgoCD
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +19,6 @@ The infrastructure is designed using Kubernetes best practices including:
 - Docker
 - MongoDB
 - Redis
-- ArgoCD
 - Ingress Controller
 - YAML Manifests
 
@@ -33,7 +31,6 @@ The infrastructure is designed using Kubernetes best practices including:
 - Service Exposure
 - Ingress Routing
 - SSL Certificate Configuration
-- ArgoCD Integration
 
 ## 🎯 Objective
 
