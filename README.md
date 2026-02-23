@@ -4,7 +4,7 @@ This repository contains a production-ready Kubernetes deployment setup for the 
 
 The infrastructure is designed using Kubernetes best practices including:
 
-- ✅ Namespace Isolation
+- ✅ Namespace Isolation 
 - ✅ Priority Class Configuration
 - ✅ Persistent Volumes & PVC (MongoDB)
 - ✅ StatefulSet for MongoDB
