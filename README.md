@@ -11,7 +11,7 @@ The infrastructure is designed using Kubernetes best practices including:
 - ✅ Deployment for Application & Redis
 - ✅ Services (ClusterIP)
 - ✅ Ingress Configuration
-- ✅ ConfigMaps & Secrets Management
+- ✅ ConfigMaps & Secrets Managements.
 
 ## 🛠️ Tech Stack
 
